@@ -1,0 +1,3 @@
+/home/pedroaods/PDI/filtragem_espacial2/tiltshiftvideo/build/CMakeFiles/tiltshiftvideo.dir
+/home/pedroaods/PDI/filtragem_espacial2/tiltshiftvideo/build/CMakeFiles/edit_cache.dir
+/home/pedroaods/PDI/filtragem_espacial2/tiltshiftvideo/build/CMakeFiles/rebuild_cache.dir
